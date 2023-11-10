@@ -1,0 +1,4 @@
+Insertion sort is a simple sorting algorithm that works by iteratively inserting elements into their correct positions within a sorted subarray.
+It's like sorting playing cards in our hands, where we pick a new card and place it in the right position.
+We compare each element with the elements before it, shifting them if necessary to make space for the new element.
+This process is repeated until the entire array is sorted.
